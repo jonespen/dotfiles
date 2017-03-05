@@ -1,0 +1,6 @@
+PATH=/usr/bin:/bin:/usr/sbin:/sbin
+export PATH
+PATH=/usr/local/bin:/usr/local/sbin:"$PATH"
+PATH=/opt/local/bin:/opt/local/sbin:"$PATH"
+PATH="$HOME/.rbenv/bin:$PATH"
+PATH="$PATH:`yarn global bin`"

@@ -1,0 +1,9 @@
+[user]
+  name = Jon Espen Kvisler
+  email = jonespen@gmail.com
+
+[github]
+  user = jonespen
+
+[core]
+  excludesfile = ~/.gitignore_global
